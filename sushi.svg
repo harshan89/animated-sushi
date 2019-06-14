@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1504" height="951" viewBox="0 0 1504 951">
+  <g id="Export" transform="translate(-208 -65)">
+    <rect id="frame" width="1504" height="951" transform="translate(208 65)" fill="none"/>
+    <g id="bg2" transform="translate(407 223)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.2">
+      <circle cx="276.5" cy="276.5" r="276.5" stroke="none"/>
+      <circle cx="276.5" cy="276.5" r="276" fill="none"/>
+    </g>
+    <g id="bg1" transform="translate(1015 108)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.2">
+      <circle cx="75.5" cy="75.5" r="75.5" stroke="none"/>
+      <circle cx="75.5" cy="75.5" r="75" fill="none"/>
+    </g>
+    <g id="bowl" transform="translate(-27 24)">
+      <path id="Shadow" d="M887.25,752s211.25,214.68,373.49,194.4,273.78-98.02,270.4-145.34-60.84-92.95-91.26-94.64-145.34-32.11-258.57,6.76-197.73,52.39-197.73,52.39Z" fill="#2b2b2b"/>
+      <g id="bowl-2" data-name="bowl">
+        <path id="Path_1" data-name="Path 1" d="M937.992,568.385s-113.067-2.925-168-49.231S546,322.231,546,322.231,659.2,273.018,937.992,273s391.992,49.231,391.992,49.231l-224,196.923C1049.878,568.484,937.992,568.385,937.992,568.385Z" transform="translate(34 193.345)" fill="none" stroke="#d9d9d9" stroke-width="8"/>
+        <path id="Path_2" data-name="Path 2" d="M546,312s3.443,38.239,391.992,39,391.992-39,391.992-39" transform="translate(34 205.622)" fill="none" stroke="#d9d9d9" stroke-width="8"/>
+      </g>
+    </g>
+    <path id="chopstic2" d="M1657.7,156.078l-33.275,494.363s-1.541,16.181-13.1,14.64S1599,650.441,1599,650.441s49.556-461.789,52.394-494.363S1657.7,156.078,1657.7,156.078Z" transform="translate(2624.831 1229.544) rotate(-167)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <path id="chopstic1" d="M1657.7,156.078l-33.275,494.363s-1.541,16.181-13.1,14.64S1599,650.441,1599,650.441s49.556-461.789,52.394-494.363S1657.7,156.078,1657.7,156.078Z" transform="translate(2379.455 1692.715) rotate(-150)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <g id="sushi2" transform="matrix(0.875, 0.485, -0.485, 0.875, 685.829, 466.122)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="57.914" cy="16.198" rx="57.914" ry="16.198" transform="translate(203 103)" fill="#1d1a1a"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="57.914" cy="16.198" rx="57.914" ry="16.198" transform="translate(203 145.604)" fill="#1d1a1a"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="115.828" height="43.047" transform="translate(203 118.976)" fill="#1d1a1a"/>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(214.095 110.544)" fill="#fff" stroke="#707070" stroke-width="1">
+        <ellipse cx="46.82" cy="8.654" rx="46.82" ry="8.654" stroke="none"/>
+        <ellipse cx="46.82" cy="8.654" rx="46.32" ry="8.154" fill="none"/>
+      </g>
+    </g>
+    <g id="sushi1" transform="translate(694.256 600.191) rotate(-2)">
+      <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="57.914" cy="16.198" rx="57.914" ry="16.198" transform="translate(203 103)" fill="#1d1a1a"/>
+      <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="57.914" cy="16.198" rx="57.914" ry="16.198" transform="translate(203 145.604)" fill="#1d1a1a"/>
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="115.828" height="43.047" transform="translate(203 118.976)" fill="#1d1a1a"/>
+      <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(214.095 110.544)" fill="#fff" stroke="#707070" stroke-width="1">
+        <ellipse cx="46.82" cy="8.654" rx="46.82" ry="8.654" stroke="none"/>
+        <ellipse cx="46.82" cy="8.654" rx="46.32" ry="8.154" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

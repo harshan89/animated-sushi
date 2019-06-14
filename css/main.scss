@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+}
+body {
+    margin: 0;
+}
+#loading {
+    margin: -3% auto auto auto;
+    display: block;
+    height: 100vh;
+}
+section {
+    font-family: "Georgia,Cambria,"Times New Roman",Times,serif";
+    background: #555;
+    text-align: center;
+    margin: 0;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    display: none;
+    height: 100vh;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+h1 {
+    font-size: 2em;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    top:8%;
+}
